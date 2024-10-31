@@ -1,6 +1,4 @@
 <div align="center"> 
- 
-
  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                  
  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
